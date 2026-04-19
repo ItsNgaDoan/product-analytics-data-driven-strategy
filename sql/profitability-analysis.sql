@@ -1,5 +1,8 @@
 -- Analysis: Profitability Analysis
 -- Business Question: Which products had the highest development and production costs in 2012 and 2013, and how did these costs impact profitability based on whether they were produced in-house or outsourced?
+
+-- SQL STATEMENT:
+
 WITH Thresholds AS (
     SELECT dp.CategoryName, dp.ProductSource,
            SUM(fp.ProfitMargin) / SUM(fp.OrderQty) AS Threshold_ProfitMargin
