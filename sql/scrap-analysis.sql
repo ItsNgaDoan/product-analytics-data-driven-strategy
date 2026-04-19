@@ -1,0 +1,2 @@
+-- *Analysis: Scrap analysis*
+-- Business Question: Which product categories and subcategories incur the highest scrap costs, and how does this impact overall production efficiency and profitability?
