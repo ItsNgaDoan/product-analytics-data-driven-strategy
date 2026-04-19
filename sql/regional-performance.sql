@@ -1,5 +1,8 @@
 -- Analysis: Regional performance
 -- Business Question: Which product categories drive the highest sales and profit margins across different regions, and how have their sales trends changed over the past year (June 2013 - May 2014)?
+
+-- SQL STATEMENT:
+
 WITH ProfitData AS (
     SELECT
         dl.TerritoryName,
