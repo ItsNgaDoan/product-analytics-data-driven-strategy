@@ -75,4 +75,10 @@ This project was completed as part of a group case study. My contribution focuse
 - data warehouse schema design (star schema)  
 - supporting ETL processes using Azure Data Factory and SQL  
 - data modelling and analytical interpretation  
-- identifying business insights to support product and operational decisions   
+- identifying business insights to support product and operational decisions
+
+
+## Academic Use Notice
+
+This project was completed as part of a group assignment at the University of Auckland and is shared for educational and portfolio purposes only.
+The work presented reflects collaborative academic effort. Unauthorised use, reproduction, or redistribution may violate academic integrity policies.
